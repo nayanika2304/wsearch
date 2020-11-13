@@ -7,7 +7,7 @@ Communicating between components
 Typescript catching errors during development
 Angular app security to prevent XSS attack
 
-Please visit the site at : 
+Please visit the site at : https://wsearch-sable.vercel.app/
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
